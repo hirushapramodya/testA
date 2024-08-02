@@ -1,6 +1,6 @@
 public class matta {
     void call(){
-        System.out.println("take a call");
+        System.out.println("take A call");
     }
     void massage(){
         System.out.println("type a massage");
